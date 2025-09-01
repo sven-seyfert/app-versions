@@ -1,1 +1,3 @@
 *.ini linguist-language=INI
+*.ini linguist-documentation=false
+*.ini linguist-detectable=true
